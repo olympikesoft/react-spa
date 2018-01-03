@@ -1,0 +1,31 @@
+{
+  "name": "react_spa",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bootstrap": "^3.3.7",
+    "eslint-plugin-react": "^7.5.1",
+    "material-ui": "^1.0.0-beta.23",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.31.5",
+    "react-cookie": "^2.1.2",
+    "react-dom": "^16.2.0",
+    "react-form-with-constraints": "^0.7.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.0.17",
+    "react-select": "^1.1.0",
+    "redux": "^3.7.2",
+    "redux-form": "^7.2.0",
+    "semantic-ui-react": "^0.77.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8888/"
+}
