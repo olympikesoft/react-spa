@@ -37,19 +37,18 @@
   npm install --save bootstrap
   ```
      
-     ```js
+```js
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-  ```
+```
 
 ### Initialize
+
 ```js
 import {Link, Redirect } from "react-router-dom";
-
 ```
 
 ```js
 import {Field, reduxForm} from 'redux-form';
-
 ```
 
 ```js
