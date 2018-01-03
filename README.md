@@ -1,28 +1,4 @@
-# react-dates <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
-
-[![Build Status][travis-svg]][travis-url]
-[![dependency status][deps-svg]][deps-url]
-[![dev dependency status][dev-deps-svg]][dev-deps-url]
-[![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
-
-[![npm badge][npm-badge-png]][package-url]
-
-> An easily internationalizable, accessible, mobile-friendly datepicker library for the web.
-
-![react-dates in action](https://raw.githubusercontent.com/airbnb/react-dates/master/react-dates-demo.gif)
-
-## Live Playground
-
-For examples of the datepicker in action, go to http://airbnb.io/react-dates.
-
-OR
-
-To run that demo on your own computer:
-* Clone this repository
-* `npm install`
-* `npm run storybook`
-* Visit http://localhost:6006/
+# react-spa
 
 ## Getting Started
 ### Install dependencies
