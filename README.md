@@ -5,7 +5,7 @@
 ####Import the project from github
 
    ```sh
-  git clone https://github.com/olympikesoft/react-spa.git
+  git clone https://github.com/olympikesoft/react-spa.git -b "work"
   ```
     
 ### Install dependencies
