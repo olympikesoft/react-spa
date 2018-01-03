@@ -16,21 +16,14 @@
   ```
   
   For Call React-Redux
+  
     ```sh
   npm install --save react-redux
   ```
   
-  For Call redux-form
-    ```sh
-  npm install --save redux-form
-  ```
-  
   Call Bootrap
-   npm install --save bootstrap
-or
+      ```sh npm install --save bootstrap   ```
 
-npm install --save bootstrap@4.0.0-alpha.6 
-Then add the following import statement to index.js file
 ```js
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
   ```
