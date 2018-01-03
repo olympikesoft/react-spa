@@ -9,22 +9,26 @@
   npm install --save react-router-dom
   ```
   
-  For Calls Rest API [HTTP Calls]
+  For Calls Rest API
   
    ```sh
   npm install --save axios
   ```
   
   For Call React-Redux
-  
-    ```sh
+
+   ```sh
   npm install --save react-redux
   ```
   
   Call Bootrap
-      ```sh npm install --save bootstrap   ```
-
-```js
+  
+  
+   ```sh
+  npm install --save bootstrap
+  ```
+     
+     ```js
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
   ```
 
