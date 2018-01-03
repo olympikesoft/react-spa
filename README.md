@@ -4,15 +4,17 @@
 
 ####Import the project from github
 
-  ```sh
+   ```sh
   git clone https://github.com/olympikesoft/react-spa.git
-    ```
+  ```
     
 ### Install dependencies
 
   Which produces and runs a command like:
 
-  ```sh
+
+  
+     ```sh
   npm install --save react-router-dom
   ```
   
@@ -70,9 +72,9 @@ And implement in render function :
   
   TESTING Project :
   
-     ```sh 
+   ```sh
      yarn start
-       ```
+  ```
 
 #### Create React SPA
 Create a React SPA with Redux-form, React-router-DOM, Navbar, Footer and Router 4 VERSION
