@@ -1,6 +1,13 @@
 # react-spa
 
 ## Getting Started
+
+####Import the project from github
+
+  ```sh
+  git clone https://github.com/olympikesoft/react-spa.git
+    ```
+    
 ### Install dependencies
 
   Which produces and runs a command like:
@@ -57,10 +64,18 @@ import Router from './Router.js';
 
 And implement in render function :
 
+  ```js
+  <Router/> 
   ```
-  js<Router/> 
-  ```
+  
+  TESTING Project :
+  
+     ```sh 
+     yarn start
+       ```
 
 #### Create React SPA
 Create a React SPA with Redux-form, React-router-DOM, Navbar, Footer and Router 4 VERSION
+
+
 
